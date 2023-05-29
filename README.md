@@ -53,9 +53,9 @@ Heat Treatment of 3D printed part
 
 <img height=25% width=60% src="https://github.com/ROHITJAIND/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707073/ee8511ec-3d61-42b6-b814-f2552a9c15d0">
 
-### Name: ABISHEK XAVIER A
+### Name: karna S
 
-### Register Number: 212222230004
+### Register Number: 212222110017
 
 ### Result: 
 
